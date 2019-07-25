@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:admin1@cluster0-isf8i.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secretkolang1239819028312"
+}
