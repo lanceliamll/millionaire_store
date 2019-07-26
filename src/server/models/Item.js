@@ -13,11 +13,11 @@ const ItemSchema = new mongoose.Schema({
   },
   isAvailable: {
     type: Boolean,
-    default: false
+    default: true
   },
   isForSale: {
     type: Boolean,
-    default: false
+    default: true
   },
   date: {
     type: Date,
